@@ -1,6 +1,6 @@
 # CS5525-CC
 
-### Project Name: Appointment Booking Website.<br>
+### Project Name: Health Care System.<br>
 <br>
 Associate professor: Baek-Young Choi.<br>
 Course Number: COMP-SCI 5525.<br> 
