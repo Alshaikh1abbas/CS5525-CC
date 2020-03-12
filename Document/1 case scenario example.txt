@@ -1,0 +1,33 @@
+Here is 1 case example :
+
+A Patient made car accident and  ambulance picked him to hospital , the ambulance employees give the patient some medicine until they arrived to the hospital,
+then in hospital some doctors treat him and give him more medicine , then send the total bills to his insurance company and the patient discharge from hospital.
+
+
+Explain functions for each class:
+
+(1) Ambulance staff:
+-Can retrieve patient information like (family history, allergies, previous treatment,...etc)
+-Add new patient to the system (for new patient)
+-Can add any medicine under patient record.
+
+(2) Doctor: 
+-Retrieve patient information like (family history- allergies, previous treatment,...etc)
+-And can any medicine under patient record.
+-Add any more service that give to the patient like (room service, food service)
+-Add description of each service or medicine 
+
+(3) Hospital 
+-Can retrieve patient information like (family history- allergies, previous treatment,...etc)
+-Add new or delete patient to the system
+-Edit patient information like (phone home address insurance...,etc)
+-Charge all service that give to patients so can bill it to insurance company 
+- Access patient insurance 
+- Print patient report,
+
+(4) Insurance company: 
+-See all service that gave to the patient with description of it and how much it cost to process the bills
+- Give patient copy of bill information to confirm it
+
+How can access these data?
+Only (ambulance staff, doctors, hospital, patient, insurance company)
