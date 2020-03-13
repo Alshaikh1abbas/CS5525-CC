@@ -1,0 +1,17 @@
+TASK LIST : 
+
+Create database tables (SQL)
+create & design login page/home page
+create & design Patients page
+create & design Hospital page
+create & design Doctors page
+create & design Insurances page
+Code the function with PHP to connect the database with the pages.
+Testing the database functions 
+Test cases checking (register, login, logout, insert data)
+Coding the HTML pages to integrates  CSS designing
+Linking all the pages using the PHP 
+Hosting the web system on cloud platform
+finalize the project
+
+tools & platforms (HTML, CSS, php, Javascript, bootstrap, phpMyAdmin, Wamp Server, dreamweaver, webstorm)
